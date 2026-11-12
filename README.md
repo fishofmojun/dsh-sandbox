@@ -1,3 +1,3 @@
-# dsh-sandbox
+# dsh-sandbox demo
 
-dsh-superagent 练手仓库。
+这个仓库是给 dsh-superagent 练手用的。
